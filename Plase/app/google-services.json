@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "453656511318",
+    "project_id": "plase-c83cf",
+    "storage_bucket": "plase-c83cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453656511318:android:805ca2a268c8ef56abccf7",
+        "android_client_info": {
+          "package_name": "com.plase.plase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453656511318-p8r3ugbkq4mi5ebkk63rdc2a4lvu3c17.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.plase.plase",
+            "certificate_hash": "87a61327713e01fde8e7b69e6d6f5d55165d3703"
+          }
+        },
+        {
+          "client_id": "453656511318-h6cv8m1t835ngfodnjql4tg0o76rs9q5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvnJ7aPL904mqQ4lgkSJ7N0CoinD0PK3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453656511318-h6cv8m1t835ngfodnjql4tg0o76rs9q5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
